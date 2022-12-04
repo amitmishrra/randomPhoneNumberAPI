@@ -1,0 +1,954 @@
+[
+    {
+        "country": "United States (+1)",
+        "number": "+1786244****"
+    },
+    {
+        "country": "United Kingdom (+44)",
+        "number": "+44282061****"
+    },
+    {
+        "country": "Canada (+1)",
+        "number": "+1587979****"
+    },
+    {
+        "country": "Afghanistan (+93)",
+        "number": "+9379059****"
+    },
+    {
+        "country": "Aland Islands (+358)",
+        "number": "+358730098****"
+    },
+    {
+        "country": "Albania (+355)",
+        "number": "+35568584****"
+    },
+    {
+        "country": "Algeria (+213)",
+        "number": "+21380085****"
+    },
+    {
+        "country": "AmericanSamoa (+1684)",
+        "number": "+1684770****"
+    },
+    {
+        "country": "Andorra (+376)",
+        "number": "+37670****"
+    },
+    {
+        "country": "Angola (+244)",
+        "number": "+24423758****"
+    },
+    {
+        "country": "Anguilla (+1264)",
+        "number": "+1264729****"
+    },
+    {
+        "country": "Antigua and Barbuda (+1268)",
+        "number": "+1268726****"
+    },
+    {
+        "country": "Argentina (+54)",
+        "number": "+54605918****"
+    },
+    {
+        "country": "Armenia (+374)",
+        "number": "+3742670****"
+    },
+    {
+        "country": "Aruba (+297)",
+        "number": "+297562****"
+    },
+    {
+        "country": "Ascension Island (+247)",
+        "number": "+2474****"
+    },
+    {
+        "country": "Australia (+61)",
+        "number": "+6133631****"
+    },
+    {
+        "country": "Austria (+43)",
+        "number": "+43136336****"
+    },
+    {
+        "country": "Azerbaijan (+994)",
+        "number": "+99444762****"
+    },
+    {
+        "country": "Bahamas (+1242)",
+        "number": "+1242544****"
+    },
+    {
+        "country": "Bahrain (+973)",
+        "number": "+9738415****"
+    },
+    {
+        "country": "Bangladesh (+880)",
+        "number": "+880197385****"
+    },
+    {
+        "country": "Barbados (+1246)",
+        "number": "+1246272****"
+    },
+    {
+        "country": "Belarus (+375)",
+        "number": "+37516478****"
+    },
+    {
+        "country": "Belgium (+32)",
+        "number": "+3249161****"
+    },
+    {
+        "country": "Belize (+501)",
+        "number": "+501280****"
+    },
+    {
+        "country": "Benin (+229)",
+        "number": "+2299736****"
+    },
+    {
+        "country": "Bermuda (+1441)",
+        "number": "+1441333****"
+    },
+    {
+        "country": "Bhutan (+975)",
+        "number": "+975464****"
+    },
+    {
+        "country": "Bolivia (+591)",
+        "number": "+5917401****"
+    },
+    {
+        "country": "Bosnia and Herzegovina (+387)",
+        "number": "+38767839****"
+    },
+    {
+        "country": "Botswana (+267)",
+        "number": "+2677506****"
+    },
+    {
+        "country": "Brazil (+55)",
+        "number": "+55323158****"
+    },
+    {
+        "country": "British Indian Ocean Territory (+246)",
+        "number": "+246389****"
+    },
+    {
+        "country": "Brunei Darussalam (+673)",
+        "number": "+673591****"
+    },
+    {
+        "country": "Bulgaria (+359)",
+        "number": "+35988268****"
+    },
+    {
+        "country": "Burkina Faso (+226)",
+        "number": "+2267731****"
+    },
+    {
+        "country": "Burundi (+257)",
+        "number": "+2577912****"
+    },
+    {
+        "country": "Cambodia (+855)",
+        "number": "+85576434****"
+    },
+    {
+        "country": "Cameroon (+237)",
+        "number": "+23768557****"
+    },
+    {
+        "country": "Cape Verde (+238)",
+        "number": "+238904****"
+    },
+    {
+        "country": "Cayman Islands (+1345)",
+        "number": "+1345825****"
+    },
+    {
+        "country": "Central African Republic (+236)",
+        "number": "+2367571****"
+    },
+    {
+        "country": "Chad (+235)",
+        "number": "+2356217****"
+    },
+    {
+        "country": "Chile (+56)",
+        "number": "+5673497****"
+    },
+    {
+        "country": "China (+86)",
+        "number": "+86883596****"
+    },
+    {
+        "country": "Christmas Island (+61)",
+        "number": "+6142456****"
+    },
+    {
+        "country": "Cocos (Keeling) Islands (+61)",
+        "number": "+6143234****"
+    },
+    {
+        "country": "Colombia (+57)",
+        "number": "+57604780****"
+    },
+    {
+        "country": "Comoros (+269)",
+        "number": "+269458****"
+    },
+    {
+        "country": "Congo (+242)",
+        "number": "+24222230****"
+    },
+    {
+        "country": "Cook Islands (+682)",
+        "number": "+6827****"
+    },
+    {
+        "country": "Costa Rica (+506)",
+        "number": "+5062536****"
+    },
+    {
+        "country": "Croatia (+385)",
+        "number": "+38553999****"
+    },
+    {
+        "country": "Cuba (+53)",
+        "number": "+53878174****"
+    },
+    {
+        "country": "Cyprus (+357)",
+        "number": "+3579632****"
+    },
+    {
+        "country": "Czech Republic (+420)",
+        "number": "+42037474****"
+    },
+    {
+        "country": "Democratic Republic of the Congo (+243)",
+        "number": "+24380803****"
+    },
+    {
+        "country": "Denmark (+45)",
+        "number": "+456197****"
+    },
+    {
+        "country": "Djibouti (+253)",
+        "number": "+2537794****"
+    },
+    {
+        "country": "Dominica (+1767)",
+        "number": "+1767448****"
+    },
+    {
+        "country": "Dominican Republic (+1849)",
+        "number": "+1849651****"
+    },
+    {
+        "country": "Ecuador (+593)",
+        "number": "+59399966****"
+    },
+    {
+        "country": "Egypt (+20)",
+        "number": "+20105651****"
+    },
+    {
+        "country": "El Salvador (+503)",
+        "number": "+5037456****"
+    },
+    {
+        "country": "Equatorial Guinea (+240)",
+        "number": "+24035259****"
+    },
+    {
+        "country": "Eritrea (+291)",
+        "number": "+291858****"
+    },
+    {
+        "country": "Estonia (+372)",
+        "number": "+3727020****"
+    },
+    {
+        "country": "Eswatini (+268)",
+        "number": "+2682235****"
+    },
+    {
+        "country": "Ethiopia (+251)",
+        "number": "+25198057****"
+    },
+    {
+        "country": "Falkland Islands (Malvinas) (+500)",
+        "number": "+5005****"
+    },
+    {
+        "country": "Faroe Islands (+298)",
+        "number": "+298108832****"
+    },
+    {
+        "country": "Fiji (+679)",
+        "number": "+679792****"
+    },
+    {
+        "country": "Finland (+358)",
+        "number": "+358758303****"
+    },
+    {
+        "country": "France (+33)",
+        "number": "+3354605****"
+    },
+    {
+        "country": "French Guiana (+594)",
+        "number": "+59480132****"
+    },
+    {
+        "country": "French Polynesia (+689)",
+        "number": "+68980212****"
+    },
+    {
+        "country": "Gabon (+241)",
+        "number": "+2417464****"
+    },
+    {
+        "country": "Gambia (+220)",
+        "number": "+220783****"
+    },
+    {
+        "country": "Georgia (+995)",
+        "number": "+99536555****"
+    },
+    {
+        "country": "Germany (+49)",
+        "number": "+49502717****"
+    },
+    {
+        "country": "Ghana (+233)",
+        "number": "+23337220****"
+    },
+    {
+        "country": "Gibraltar (+350)",
+        "number": "+3505853****"
+    },
+    {
+        "country": "Greece (+30)",
+        "number": "+30699689****"
+    },
+    {
+        "country": "Greenland (+299)",
+        "number": "+29992****"
+    },
+    {
+        "country": "Grenada (+1473)",
+        "number": "+1473538****"
+    },
+    {
+        "country": "Guadeloupe (+590)",
+        "number": "+59080008****"
+    },
+    {
+        "country": "Guam (+1671)",
+        "number": "+1671487****"
+    },
+    {
+        "country": "Guatemala (+502)",
+        "number": "+5024892****"
+    },
+    {
+        "country": "Guernsey (+44)",
+        "number": "+44553915****"
+    },
+    {
+        "country": "Guinea (+224)",
+        "number": "+22462297****"
+    },
+    {
+        "country": "Guinea-Bissau (+245)",
+        "number": "+24595444****"
+    },
+    {
+        "country": "Guyana (+592)",
+        "number": "+592623****"
+    },
+    {
+        "country": "Haiti (+509)",
+        "number": "+5098485****"
+    },
+    {
+        "country": "Honduras (+504)",
+        "number": "+5048416****"
+    },
+    {
+        "country": "Hong Kong (+852)",
+        "number": "+8529419****"
+    },
+    {
+        "country": "Hungary (+36)",
+        "number": "+3638718****"
+    },
+    {
+        "country": "Iceland (+354)",
+        "number": "+35438570****"
+    },
+    {
+        "country": "India (+91)",
+        "number": "+91403107****"
+    },
+    {
+        "country": "Indonesia (+62)",
+        "number": "+62632938****"
+    },
+    {
+        "country": "Iran (+98)",
+        "number": "+98749344****"
+    },
+    {
+        "country": "Iraq (+964)",
+        "number": "+964739755****"
+    },
+    {
+        "country": "Ireland (+353)",
+        "number": "+353882292****"
+    },
+    {
+        "country": "Isle of Man (+44)",
+        "number": "+44562109****"
+    },
+    {
+        "country": "Italy (+39)",
+        "number": "+39559235****"
+    },
+    {
+        "country": "Ivory Coast / Cote d'Ivoire (+225)",
+        "number": "+225216227****"
+    },
+    {
+        "country": "Jamaica (+1876)",
+        "number": "+1876864****"
+    },
+    {
+        "country": "Japan (+81)",
+        "number": "+8185377****"
+    },
+    {
+        "country": "Jersey (+44)",
+        "number": "+44556961****"
+    },
+    {
+        "country": "Jordan (+962)",
+        "number": "+9623230****"
+    },
+    {
+        "country": "Kazakhstan (+77)",
+        "number": "+7763312****"
+    },
+    {
+        "country": "Kenya (+254)",
+        "number": "+25475874****"
+    },
+    {
+        "country": "Kiribati (+686)",
+        "number": "+6867274****"
+    },
+    {
+        "country": "Korea, Democratic People's Republic of Korea (+850)",
+        "number": "+850193404****"
+    },
+    {
+        "country": "Korea, Republic of South Korea (+82)",
+        "number": "+82101461****"
+    },
+    {
+        "country": "Kosovo (+383)",
+        "number": "+38339063****"
+    },
+    {
+        "country": "Kuwait (+965)",
+        "number": "+9659550****"
+    },
+    {
+        "country": "Kyrgyzstan (+996)",
+        "number": "+99655425****"
+    },
+    {
+        "country": "Laos (+856)",
+        "number": "+856203229****"
+    },
+    {
+        "country": "Latvia (+371)",
+        "number": "+3716595****"
+    },
+    {
+        "country": "Lebanon (+961)",
+        "number": "+9612511****"
+    },
+    {
+        "country": "Lesotho (+266)",
+        "number": "+2666155****"
+    },
+    {
+        "country": "Liberia (+231)",
+        "number": "+231529****"
+    },
+    {
+        "country": "Libya (+218)",
+        "number": "+21873589****"
+    },
+    {
+        "country": "Liechtenstein (+423)",
+        "number": "+42365458****"
+    },
+    {
+        "country": "Lithuania (+370)",
+        "number": "+37083168****"
+    },
+    {
+        "country": "Luxembourg (+352)",
+        "number": "+352299763****"
+    },
+    {
+        "country": "Macau (+853)",
+        "number": "+8536247****"
+    },
+    {
+        "country": "Madagascar (+261)",
+        "number": "+26122799****"
+    },
+    {
+        "country": "Malawi (+265)",
+        "number": "+26522832****"
+    },
+    {
+        "country": "Malaysia (+60)",
+        "number": "+60113291****"
+    },
+    {
+        "country": "Maldives (+960)",
+        "number": "+960800061****"
+    },
+    {
+        "country": "Mali (+223)",
+        "number": "+2236841****"
+    },
+    {
+        "country": "Malta (+356)",
+        "number": "+3567933****"
+    },
+    {
+        "country": "Marshall Islands (+692)",
+        "number": "+692545****"
+    },
+    {
+        "country": "Martinique (+596)",
+        "number": "+59659639****"
+    },
+    {
+        "country": "Mauritania (+222)",
+        "number": "+2222122****"
+    },
+    {
+        "country": "Mauritius (+230)",
+        "number": "+2305786****"
+    },
+    {
+        "country": "Mayotte (+262)",
+        "number": "+26280855****"
+    },
+    {
+        "country": "Mexico (+52)",
+        "number": "+52328591****"
+    },
+    {
+        "country": "Micronesia, Federated States of Micronesia (+691)",
+        "number": "+691979****"
+    },
+    {
+        "country": "Moldova (+373)",
+        "number": "+3732927****"
+    },
+    {
+        "country": "Monaco (+377)",
+        "number": "+37769785****"
+    },
+    {
+        "country": "Mongolia (+976)",
+        "number": "+976238353****"
+    },
+    {
+        "country": "Montenegro (+382)",
+        "number": "+3829481****"
+    },
+    {
+        "country": "Montserrat (+1664)",
+        "number": "+1664492****"
+    },
+    {
+        "country": "Morocco (+212)",
+        "number": "+21264314****"
+    },
+    {
+        "country": "Mozambique (+258)",
+        "number": "+25886367****"
+    },
+    {
+        "country": "Myanmar (+95)",
+        "number": "+9597322****"
+    },
+    {
+        "country": "Namibia (+264)",
+        "number": "+26481254****"
+    },
+    {
+        "country": "Nauru (+674)",
+        "number": "+674837****"
+    },
+    {
+        "country": "Nepal (+977)",
+        "number": "+9777158****"
+    },
+    {
+        "country": "Netherlands (+31)",
+        "number": "+3141830****"
+    },
+    {
+        "country": "New Caledonia (+687)",
+        "number": "+68734****"
+    },
+    {
+        "country": "New Zealand (+64)",
+        "number": "+64113815****"
+    },
+    {
+        "country": "Nicaragua (+505)",
+        "number": "+5052862****"
+    },
+    {
+        "country": "Niger (+227)",
+        "number": "+2278994****"
+    },
+    {
+        "country": "Nigeria (+234)",
+        "number": "+234813584****"
+    },
+    {
+        "country": "Niue (+683)",
+        "number": "+683****"
+    },
+    {
+        "country": "Norfolk Island (+672)",
+        "number": "+6721****"
+    },
+    {
+        "country": "North Macedonia (+389)",
+        "number": "+3898692****"
+    },
+    {
+        "country": "Northern Mariana Islands (+1670)",
+        "number": "+1670288****"
+    },
+    {
+        "country": "Norway (+47)",
+        "number": "+475331****"
+    },
+    {
+        "country": "Pakistan (+92)",
+        "number": "+92677589****"
+    },
+    {
+        "country": "Palau (+680)",
+        "number": "+680458****"
+    },
+    {
+        "country": "Palestine (+970)",
+        "number": "+97056868****"
+    },
+    {
+        "country": "Panama (+507)",
+        "number": "+507800834****"
+    },
+    {
+        "country": "Papua New Guinea (+675)",
+        "number": "+6758178****"
+    },
+    {
+        "country": "Paraguay (+595)",
+        "number": "+59551716****"
+    },
+    {
+        "country": "Peru (+51)",
+        "number": "+5198921****"
+    },
+    {
+        "country": "Philippines (+63)",
+        "number": "+6363805****"
+    },
+    {
+        "country": "Poland (+48)",
+        "number": "+4873624****"
+    },
+    {
+        "country": "Portugal (+351)",
+        "number": "+35130972****"
+    },
+    {
+        "country": "Puerto Rico (+1939)",
+        "number": "+1939200****"
+    },
+    {
+        "country": "Qatar (+974)",
+        "number": "+9742344****"
+    },
+    {
+        "country": "Reunion (+262)",
+        "number": "+26289332****"
+    },
+    {
+        "country": "Romania (+40)",
+        "number": "+4075565****"
+    },
+    {
+        "country": "Russia (+7)",
+        "number": "+7879239****"
+    },
+    {
+        "country": "Rwanda (+250)",
+        "number": "+25023385****"
+    },
+    {
+        "country": "Saint Barthelemy (+590)",
+        "number": "+59097614****"
+    },
+    {
+        "country": "Saint Helena, Ascension and Tristan Da Cunha (+290)",
+        "number": "+2906****"
+    },
+    {
+        "country": "Saint Kitts and Nevis (+1869)",
+        "number": "+1869460****"
+    },
+    {
+        "country": "Saint Lucia (+1758)",
+        "number": "+1758584****"
+    },
+    {
+        "country": "Saint Martin (+590)",
+        "number": "+59080297****"
+    },
+    {
+        "country": "Saint Pierre and Miquelon (+508)",
+        "number": "+50880265****"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines (+1784)",
+        "number": "+1784720****"
+    },
+    {
+        "country": "Samoa (+685)",
+        "number": "+685890582****"
+    },
+    {
+        "country": "San Marino (+378)",
+        "number": "+3786632****"
+    },
+    {
+        "country": "Sao Tome and Principe (+239)",
+        "number": "+239993****"
+    },
+    {
+        "country": "Saudi Arabia (+966)",
+        "number": "+96650611****"
+    },
+    {
+        "country": "Senegal (+221)",
+        "number": "+22176082****"
+    },
+    {
+        "country": "Serbia (+381)",
+        "number": "+381762474****"
+    },
+    {
+        "country": "Seychelles (+248)",
+        "number": "+248646****"
+    },
+    {
+        "country": "Sierra Leone (+232)",
+        "number": "+2326602****"
+    },
+    {
+        "country": "Singapore (+65)",
+        "number": "+659168****"
+    },
+    {
+        "country": "Sint Maarten (+1721)",
+        "number": "+1721547****"
+    },
+    {
+        "country": "Slovakia (+421)",
+        "number": "+42145500****"
+    },
+    {
+        "country": "Slovenia (+386)",
+        "number": "+3861497****"
+    },
+    {
+        "country": "Solomon Islands (+677)",
+        "number": "+677745****"
+    },
+    {
+        "country": "Somalia (+252)",
+        "number": "+2529379****"
+    },
+    {
+        "country": "South Africa (+27)",
+        "number": "+2791506****"
+    },
+    {
+        "country": "South Sudan (+211)",
+        "number": "+21192512****"
+    },
+    {
+        "country": "Spain (+34)",
+        "number": "+3496453****"
+    },
+    {
+        "country": "Sri Lanka (+94)",
+        "number": "+9436295****"
+    },
+    {
+        "country": "Sudan (+249)",
+        "number": "+24991938****"
+    },
+    {
+        "country": "Suriname (+597)",
+        "number": "+597866****"
+    },
+    {
+        "country": "Svalbard and Jan Mayen (+47)",
+        "number": "+474012****"
+    },
+    {
+        "country": "Sweden (+46)",
+        "number": "+4611265****"
+    },
+    {
+        "country": "Switzerland (+41)",
+        "number": "+4173458****"
+    },
+    {
+        "country": "Syrian Arab Republic (+963)",
+        "number": "+96394401****"
+    },
+    {
+        "country": "Taiwan (+886)",
+        "number": "+886709140****"
+    },
+    {
+        "country": "Tajikistan (+992)",
+        "number": "+99270703****"
+    },
+    {
+        "country": "Tanzania, United Republic of Tanzania (+255)",
+        "number": "+25578701****"
+    },
+    {
+        "country": "Thailand (+66)",
+        "number": "+6660812****"
+    },
+    {
+        "country": "Timor-Leste (+670)",
+        "number": "+6707701****"
+    },
+    {
+        "country": "Togo (+228)",
+        "number": "+2289656****"
+    },
+    {
+        "country": "Tokelau (+690)",
+        "number": "+690382****"
+    },
+    {
+        "country": "Tonga (+676)",
+        "number": "+676708****"
+    },
+    {
+        "country": "Trinidad and Tobago (+1868)",
+        "number": "+1868262****"
+    },
+    {
+        "country": "Tunisia (+216)",
+        "number": "+2163256****"
+    },
+    {
+        "country": "Turkey (+90)",
+        "number": "+90512365****"
+    },
+    {
+        "country": "Turkmenistan (+993)",
+        "number": "+9934445****"
+    },
+    {
+        "country": "Turks and Caicos Islands (+1649)",
+        "number": "+1649322****"
+    },
+    {
+        "country": "Tuvalu (+688)",
+        "number": "+688706****"
+    },
+    {
+        "country": "Uganda (+256)",
+        "number": "+25620130****"
+    },
+    {
+        "country": "Ukraine (+380)",
+        "number": "+38043308****"
+    },
+    {
+        "country": "United Arab Emirates (+971)",
+        "number": "+971800063****"
+    },
+    {
+        "country": "Uruguay (+598)",
+        "number": "+598404327****"
+    },
+    {
+        "country": "Uzbekistan (+998)",
+        "number": "+998878716****"
+    },
+    {
+        "country": "Vanuatu (+678)",
+        "number": "+678830****"
+    },
+    {
+        "country": "Venezuela, Bolivarian Republic of Venezuela (+58)",
+        "number": "+58273482****"
+    },
+    {
+        "country": "Vietnam (+84)",
+        "number": "+8436952****"
+    },
+    {
+        "country": "Virgin Islands, British (+1284)",
+        "number": "+1284440****"
+    },
+    {
+        "country": "Virgin Islands, U.S. (+1340)",
+        "number": "+1340332****"
+    },
+    {
+        "country": "Wallis and Futuna (+681)",
+        "number": "+68180588****"
+    },
+    {
+        "country": "Yemen (+967)",
+        "number": "+96771770****"
+    },
+    {
+        "country": "Zambia (+260)",
+        "number": "+26021459****"
+    },
+    {
+        "country": "Zimbabwe (+263)",
+        "number": "+263261146****"
+    }
+]

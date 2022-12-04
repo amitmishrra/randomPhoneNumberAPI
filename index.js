@@ -18,7 +18,7 @@ const change = ()=>{
     for (let i = 0; i < data.length; i++) {
         newArray.push({
             "country" : `${data[i].country.slice(0, data[i].country.indexOf('(')-1)}`,
-            "code" : `+${data[i].country.slice(data[i].country.indexOf('(')),  data[i].country.indexOf(')')}`,
+            "code" : `${data[i].country.slice(data[i].country.indexOf('(') + 1, data[i].country.indexOf(')'))}`,
             "number" : `${data[i].number.replace("****", Math.floor(1000 + Math.random() * 9000))}`
         })
     }
@@ -28,5 +28,9 @@ const change = ()=>{
 app.get("/randomNumbers", (req, res) => {
     res.send(change())
 })
+
+console.log(
+    
+)
 
 
